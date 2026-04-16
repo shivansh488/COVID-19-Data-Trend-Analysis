@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+scikit-learn>=1.3
+statsmodels>=0.14
+PyWavelets>=1.4
+dtaidistance>=2.3
+hdbscan>=0.8
+mlxtend>=0.22
+jupyter>=1.0
+nbformat>=5.0
+nbconvert>=7.0
+pytest>=7.0
